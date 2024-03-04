@@ -1,0 +1,2 @@
+ERROR:__main__:Ошибка при создании объекта: Invalid age: 250. Age should be a positive integer between 1 and 120.
+ERROR:__main__:Ошибка при создании объекта: Invalid age: 30250. Age should be a positive integer between 1 and 120.
